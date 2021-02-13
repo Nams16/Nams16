@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - 🔭 I’m currently studying at Birla Institute of Technology Mesra
 - 🌱 I’m currently learning Databases
 - 👯 I’m looking to collaborate on GCP
