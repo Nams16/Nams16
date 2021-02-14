@@ -7,5 +7,3 @@
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: Humans are the only animals that blush.🙃
 
-
-![](https://nams16.github.io/DrumBeat/)
